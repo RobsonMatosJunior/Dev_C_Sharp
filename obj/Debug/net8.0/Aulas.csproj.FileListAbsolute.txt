@@ -1,0 +1,5 @@
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\obj\Debug\net8.0\Aulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\obj\Debug\net8.0\Aulas.AssemblyInfoInputs.cache
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\obj\Debug\net8.0\Aulas.AssemblyInfo.cs
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\obj\Debug\net8.0\Aulas.csproj.CoreCompileInputs.cache
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\obj\Debug\net8.0\Aulas.sourcelink.json
