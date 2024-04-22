@@ -14,5 +14,12 @@ class program
         soma += num;
         }
         Console.WriteLine("A soma dos números é: " + soma);
+
+        for (int i = 0; i < n; i++)
+        {
+                
+            Console.WriteLine("Valor de I: " + i);
+        }
+        
     }
 }
