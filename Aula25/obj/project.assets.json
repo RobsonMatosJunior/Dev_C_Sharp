@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Robson Junior\\Documents\\GitHub\\Dev C#\\Aulas\\Dev_C_Sharp\\Aula25\\aula25.csproj",
-      "projectName": "aula25",
-      "projectPath": "C:\\Users\\Robson Junior\\Documents\\GitHub\\Dev C#\\Aulas\\Dev_C_Sharp\\Aula25\\aula25.csproj",
+      "projectUniqueName": "C:\\Users\\Robson Junior\\Documents\\GitHub\\CSharp-Rob\\Aulas\\Aula25\\Aula25.csproj",
+      "projectName": "Aula25",
+      "projectPath": "C:\\Users\\Robson Junior\\Documents\\GitHub\\CSharp-Rob\\Aulas\\Aula25\\Aula25.csproj",
       "packagesPath": "C:\\Users\\Robson Junior\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Robson Junior\\Documents\\GitHub\\Dev C#\\Aulas\\Dev_C_Sharp\\Aula25\\obj\\",
+      "outputPath": "C:\\Users\\Robson Junior\\Documents\\GitHub\\CSharp-Rob\\Aulas\\Aula25\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Robson Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",

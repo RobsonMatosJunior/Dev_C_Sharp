@@ -1,4 +1,21 @@
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula46\obj\Debug\net8.0\Aula46.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula46\obj\Debug\net8.0\Aula46.AssemblyInfoInputs.cache
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula46\obj\Debug\net8.0\Aula46.AssemblyInfo.cs
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula46\obj\Debug\net8.0\Aula46.csproj.CoreCompileInputs.cache
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula46\obj\Debug\net8.0\Aula46.sourcelink.json
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula46\bin\Debug\net8.0\Aula46.exe
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula46\bin\Debug\net8.0\Aula46.deps.json
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula46\bin\Debug\net8.0\Aula46.runtimeconfig.json
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula46\bin\Debug\net8.0\Aula46.dll
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula46\bin\Debug\net8.0\Aula46.pdb
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula46\obj\Debug\net8.0\Aula46.dll
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula46\obj\Debug\net8.0\refint\Aula46.dll
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula46\obj\Debug\net8.0\Aula46.pdb
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula46\obj\Debug\net8.0\Aula46.genruntimeconfig.cache
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula46\obj\Debug\net8.0\ref\Aula46.dll
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula46\bin\Debug\net8.0\Aula46.exe
 C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula46\bin\Debug\net8.0\Aula46.deps.json
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula46\bin\Debug\net8.0\Aula46.runtimeconfig.json
 C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula46\bin\Debug\net8.0\Aula46.dll
 C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula46\bin\Debug\net8.0\Aula46.pdb
 C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula46\obj\Debug\net8.0\Aula46.GeneratedMSBuildEditorConfig.editorconfig
@@ -9,4 +26,5 @@ C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula46\obj\Debu
 C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula46\obj\Debug\net8.0\Aula46.dll
 C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula46\obj\Debug\net8.0\refint\Aula46.dll
 C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula46\obj\Debug\net8.0\Aula46.pdb
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula46\obj\Debug\net8.0\Aula46.genruntimeconfig.cache
 C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula46\obj\Debug\net8.0\ref\Aula46.dll

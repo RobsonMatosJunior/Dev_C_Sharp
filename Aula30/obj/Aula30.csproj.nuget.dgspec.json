@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Robson Junior\\Documents\\GitHub\\Dev C#\\Aulas\\Dev_C_Sharp\\Aula30\\Aula30.csproj": {}
+    "C:\\Users\\Robson Junior\\Documents\\GitHub\\CSharp-Rob\\Aulas\\Aula30\\Aula30.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Robson Junior\\Documents\\GitHub\\Dev C#\\Aulas\\Dev_C_Sharp\\Aula30\\Aula30.csproj": {
+    "C:\\Users\\Robson Junior\\Documents\\GitHub\\CSharp-Rob\\Aulas\\Aula30\\Aula30.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Robson Junior\\Documents\\GitHub\\Dev C#\\Aulas\\Dev_C_Sharp\\Aula30\\Aula30.csproj",
+        "projectUniqueName": "C:\\Users\\Robson Junior\\Documents\\GitHub\\CSharp-Rob\\Aulas\\Aula30\\Aula30.csproj",
         "projectName": "Aula30",
-        "projectPath": "C:\\Users\\Robson Junior\\Documents\\GitHub\\Dev C#\\Aulas\\Dev_C_Sharp\\Aula30\\Aula30.csproj",
+        "projectPath": "C:\\Users\\Robson Junior\\Documents\\GitHub\\CSharp-Rob\\Aulas\\Aula30\\Aula30.csproj",
         "packagesPath": "C:\\Users\\Robson Junior\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Robson Junior\\Documents\\GitHub\\Dev C#\\Aulas\\Dev_C_Sharp\\Aula30\\obj\\",
+        "outputPath": "C:\\Users\\Robson Junior\\Documents\\GitHub\\CSharp-Rob\\Aulas\\Aula30\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Robson Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",

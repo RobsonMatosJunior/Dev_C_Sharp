@@ -1,0 +1,15 @@
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula25\obj\Debug\net8.0\Aula25.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula25\obj\Debug\net8.0\Aula25.AssemblyInfoInputs.cache
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula25\obj\Debug\net8.0\Aula25.AssemblyInfo.cs
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula25\obj\Debug\net8.0\Aula25.csproj.CoreCompileInputs.cache
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula25\obj\Debug\net8.0\Aula25.sourcelink.json
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula25\bin\Debug\net8.0\Aula25.exe
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula25\bin\Debug\net8.0\Aula25.deps.json
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula25\bin\Debug\net8.0\Aula25.runtimeconfig.json
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula25\bin\Debug\net8.0\Aula25.dll
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula25\bin\Debug\net8.0\Aula25.pdb
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula25\obj\Debug\net8.0\Aula25.dll
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula25\obj\Debug\net8.0\refint\Aula25.dll
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula25\obj\Debug\net8.0\Aula25.pdb
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula25\obj\Debug\net8.0\Aula25.genruntimeconfig.cache
+C:\Users\Robson Junior\Documents\GitHub\CSharp-Rob\Aulas\Aula25\obj\Debug\net8.0\ref\Aula25.dll

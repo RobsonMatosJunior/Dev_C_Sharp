@@ -1,0 +1,15 @@
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula32\bin\Debug\net8.0\Aula32.exe
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula32\bin\Debug\net8.0\Aula32.deps.json
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula32\bin\Debug\net8.0\Aula32.runtimeconfig.json
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula32\bin\Debug\net8.0\Aula32.dll
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula32\bin\Debug\net8.0\Aula32.pdb
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula32\obj\Debug\net8.0\Aula32.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula32\obj\Debug\net8.0\Aula32.AssemblyInfoInputs.cache
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula32\obj\Debug\net8.0\Aula32.AssemblyInfo.cs
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula32\obj\Debug\net8.0\Aula32.csproj.CoreCompileInputs.cache
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula32\obj\Debug\net8.0\Aula32.sourcelink.json
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula32\obj\Debug\net8.0\Aula32.dll
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula32\obj\Debug\net8.0\refint\Aula32.dll
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula32\obj\Debug\net8.0\Aula32.pdb
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula32\obj\Debug\net8.0\Aula32.genruntimeconfig.cache
+C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula32\obj\Debug\net8.0\ref\Aula32.dll
