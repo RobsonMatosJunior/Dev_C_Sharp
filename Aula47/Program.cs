@@ -12,5 +12,7 @@ class program
         {
             Console.WriteLine(i + " x " + n + " = " + i * n);
         }
+
+        Console.ReadLine();
     }
 }
