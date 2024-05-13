@@ -1,0 +1,15 @@
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula50\obj\Debug\net8.0\Aula50.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula50\obj\Debug\net8.0\Aula50.AssemblyInfoInputs.cache
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula50\obj\Debug\net8.0\Aula50.AssemblyInfo.cs
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula50\obj\Debug\net8.0\Aula50.csproj.CoreCompileInputs.cache
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula50\obj\Debug\net8.0\Aula50.sourcelink.json
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula50\bin\Debug\net8.0\Aula50.exe
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula50\bin\Debug\net8.0\Aula50.deps.json
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula50\bin\Debug\net8.0\Aula50.runtimeconfig.json
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula50\bin\Debug\net8.0\Aula50.dll
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula50\bin\Debug\net8.0\Aula50.pdb
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula50\obj\Debug\net8.0\Aula50.dll
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula50\obj\Debug\net8.0\refint\Aula50.dll
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula50\obj\Debug\net8.0\Aula50.pdb
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula50\obj\Debug\net8.0\Aula50.genruntimeconfig.cache
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Dev_C_Sharp\Aula50\obj\Debug\net8.0\ref\Aula50.dll

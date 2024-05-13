@@ -1,16 +1,17 @@
-﻿using Program;
+﻿using System;
 class Program
 {
     static void Main(string [] args)
     {
-        int x, y min, max, soma;
+        int x, y, min, max, soma;
 
         x = int.Parse(Console.ReadLine());
         y = int.Parse(Console.ReadLine());
 
         if(x < y)
         {
-            min = x;
+            min = y;
+            max = x;
         }
         else
         {
@@ -27,6 +28,7 @@ class Program
             }
             
         }
+        Console.WriteLine(soma);
 
         Console.ReadLine();
     }
