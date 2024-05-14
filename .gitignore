@@ -1,0 +1,26 @@
+# Arquivos do Visual Studio
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Arquivos de Build
+bin/
+obj/
+
+# Arquivos de Pacotes
+*.nupkg
+# A pasta packages pode ser ignorada por causa do Package Restore
+**/[Pp]ackages/*
+# exceto build/, que é usado como um alvo do MSBuild.
+!**/[Pp]ackages/build/
+
+# Arquivos de Log
+*.log
+
+# Arquivos de Banco de Dados
+*.db
+
+# Arquivos de Configuração Local
+appsettings.json
+appsettings.Development.json
