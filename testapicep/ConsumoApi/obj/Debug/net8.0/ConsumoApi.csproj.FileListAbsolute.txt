@@ -13,3 +13,18 @@ C:\Users\robso\OneDrive\Documentos\GitHub\GBM_Teste\Dev_C_Sharp\testapicep\Consu
 C:\Users\robso\OneDrive\Documentos\GitHub\GBM_Teste\Dev_C_Sharp\testapicep\ConsumoApi\obj\Debug\net8.0\ConsumoApi.pdb
 C:\Users\robso\OneDrive\Documentos\GitHub\GBM_Teste\Dev_C_Sharp\testapicep\ConsumoApi\obj\Debug\net8.0\ConsumoApi.genruntimeconfig.cache
 C:\Users\robso\OneDrive\Documentos\GitHub\GBM_Teste\Dev_C_Sharp\testapicep\ConsumoApi\obj\Debug\net8.0\ref\ConsumoApi.dll
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\testapicep\ConsumoApi\bin\Debug\net8.0\ConsumoApi.exe
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\testapicep\ConsumoApi\bin\Debug\net8.0\ConsumoApi.deps.json
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\testapicep\ConsumoApi\bin\Debug\net8.0\ConsumoApi.runtimeconfig.json
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\testapicep\ConsumoApi\bin\Debug\net8.0\ConsumoApi.dll
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\testapicep\ConsumoApi\bin\Debug\net8.0\ConsumoApi.pdb
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\testapicep\ConsumoApi\obj\Debug\net8.0\ConsumoApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\testapicep\ConsumoApi\obj\Debug\net8.0\ConsumoApi.AssemblyInfoInputs.cache
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\testapicep\ConsumoApi\obj\Debug\net8.0\ConsumoApi.AssemblyInfo.cs
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\testapicep\ConsumoApi\obj\Debug\net8.0\ConsumoApi.csproj.CoreCompileInputs.cache
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\testapicep\ConsumoApi\obj\Debug\net8.0\ConsumoApi.sourcelink.json
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\testapicep\ConsumoApi\obj\Debug\net8.0\ConsumoApi.dll
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\testapicep\ConsumoApi\obj\Debug\net8.0\refint\ConsumoApi.dll
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\testapicep\ConsumoApi\obj\Debug\net8.0\ConsumoApi.pdb
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\testapicep\ConsumoApi\obj\Debug\net8.0\ConsumoApi.genruntimeconfig.cache
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\testapicep\ConsumoApi\obj\Debug\net8.0\ref\ConsumoApi.dll

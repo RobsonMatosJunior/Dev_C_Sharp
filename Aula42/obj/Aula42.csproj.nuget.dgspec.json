@@ -1,25 +1,27 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\robso\\OneDrive\\Documentos\\GitHub\\GBM_Teste\\Dev_C_Sharp\\Aula42\\Aula42.csproj": {}
+    "C:\\Users\\Robson Junior\\Documents\\GitHub\\Dev C#\\Aulas\\Aula42\\Aula42.csproj": {}
   },
   "projects": {
-    "C:\\Users\\robso\\OneDrive\\Documentos\\GitHub\\GBM_Teste\\Dev_C_Sharp\\Aula42\\Aula42.csproj": {
+    "C:\\Users\\Robson Junior\\Documents\\GitHub\\Dev C#\\Aulas\\Aula42\\Aula42.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\robso\\OneDrive\\Documentos\\GitHub\\GBM_Teste\\Dev_C_Sharp\\Aula42\\Aula42.csproj",
+        "projectUniqueName": "C:\\Users\\Robson Junior\\Documents\\GitHub\\Dev C#\\Aulas\\Aula42\\Aula42.csproj",
         "projectName": "Aula42",
-        "projectPath": "C:\\Users\\robso\\OneDrive\\Documentos\\GitHub\\GBM_Teste\\Dev_C_Sharp\\Aula42\\Aula42.csproj",
-        "packagesPath": "C:\\Users\\robso\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\robso\\OneDrive\\Documentos\\GitHub\\GBM_Teste\\Dev_C_Sharp\\Aula42\\obj\\",
+        "projectPath": "C:\\Users\\Robson Junior\\Documents\\GitHub\\Dev C#\\Aulas\\Aula42\\Aula42.csproj",
+        "packagesPath": "C:\\Users\\Robson Junior\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\Robson Junior\\Documents\\GitHub\\Dev C#\\Aulas\\Aula42\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\robso\\AppData\\Roaming\\NuGet\\NuGet.Config"
+          "C:\\Users\\Robson Junior\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net8.0"
         ],
         "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -58,7 +60,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.201/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
