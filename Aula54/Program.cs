@@ -1,4 +1,5 @@
 ﻿using System;
+/*
 class Program
 {
     static void Main()
@@ -16,5 +17,22 @@ class Program
         {
             B[i] = i + 10;
         }
+        
+        C[1] = "Maria";
+    }
+}
+*/
+
+class Program
+{
+    static void Main (string [] args)
+    {
+        int N;
+
+        N = int.Parse(Console.ReadLine());
+        
+
+
+        console.ReadLine();
     }
 }
