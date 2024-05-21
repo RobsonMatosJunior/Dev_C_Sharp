@@ -30,18 +30,18 @@ class Program
         int N;
         double[] vet;
         N = int.Parse(Console.ReadLine());
-        vet - new double[N];
+        vet = new double[N];
        
         for (int i = 0; i<N; i++)
         {
-            vet[i] = double.parse(Console.ReadLine());
+            vet[i] = double.Parse(Console.ReadLine());
         }
 
-        for (int i = 0; i<N, i++)
+        for (int i = 0; i<N; i++)
         {
             Console.WriteLine(vet[i].ToString("F1"));
         }
 
-        console.ReadLine();
+        Console.ReadLine();
     }
 }
