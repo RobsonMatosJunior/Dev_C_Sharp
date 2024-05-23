@@ -56,7 +56,7 @@ _NCrunch_*
 .*crunch*.local.xml
 
 # MSTest test Results
-[TestResults, TestResults]
+[Tt]est[Rr]esults/
 
 # Build Results of an Android Studio project
 *.apk
