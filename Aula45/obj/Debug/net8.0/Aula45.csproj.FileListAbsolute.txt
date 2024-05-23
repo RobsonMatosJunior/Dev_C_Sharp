@@ -28,3 +28,11 @@ C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula4
 C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula45\obj\Debug\net8.0\Aula45.pdb
 C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula45\obj\Debug\net8.0\Aula45.genruntimeconfig.cache
 C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula45\obj\Debug\net8.0\ref\Aula45.dll
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula45\obj\Debug\net8.0\Aula45.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula45\obj\Debug\net8.0\Aula45.AssemblyInfoInputs.cache
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula45\obj\Debug\net8.0\Aula45.AssemblyInfo.cs
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula45\obj\Debug\net8.0\Aula45.csproj.CoreCompileInputs.cache
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula45\obj\Debug\net8.0\Aula45.sourcelink.json
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula45\obj\Debug\net8.0\Aula45.dll
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula45\obj\Debug\net8.0\refint\Aula45.dll
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula45\obj\Debug\net8.0\Aula45.pdb

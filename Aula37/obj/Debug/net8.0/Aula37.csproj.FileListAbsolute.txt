@@ -13,3 +13,18 @@ C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula3
 C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula37\obj\Debug\net8.0\Aula37.pdb
 C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula37\obj\Debug\net8.0\Aula37.genruntimeconfig.cache
 C:\Users\robso\OneDrive\Documentos\GitHub\React fullstack\CSharp-Rob\Aulas\Aula37\obj\Debug\net8.0\ref\Aula37.dll
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula37\bin\Debug\net8.0\Aula37.exe
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula37\bin\Debug\net8.0\Aula37.deps.json
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula37\bin\Debug\net8.0\Aula37.runtimeconfig.json
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula37\bin\Debug\net8.0\Aula37.dll
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula37\bin\Debug\net8.0\Aula37.pdb
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula37\obj\Debug\net8.0\Aula37.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula37\obj\Debug\net8.0\Aula37.AssemblyInfoInputs.cache
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula37\obj\Debug\net8.0\Aula37.AssemblyInfo.cs
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula37\obj\Debug\net8.0\Aula37.csproj.CoreCompileInputs.cache
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula37\obj\Debug\net8.0\Aula37.sourcelink.json
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula37\obj\Debug\net8.0\Aula37.dll
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula37\obj\Debug\net8.0\refint\Aula37.dll
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula37\obj\Debug\net8.0\Aula37.pdb
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula37\obj\Debug\net8.0\Aula37.genruntimeconfig.cache
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula37\obj\Debug\net8.0\ref\Aula37.dll
