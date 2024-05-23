@@ -36,3 +36,10 @@ C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula45\obj\Debug\net8.0\Aul
 C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula45\obj\Debug\net8.0\Aula45.dll
 C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula45\obj\Debug\net8.0\refint\Aula45.dll
 C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula45\obj\Debug\net8.0\Aula45.pdb
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula45\bin\Debug\net8.0\Aula45.exe
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula45\bin\Debug\net8.0\Aula45.deps.json
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula45\bin\Debug\net8.0\Aula45.runtimeconfig.json
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula45\bin\Debug\net8.0\Aula45.dll
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula45\bin\Debug\net8.0\Aula45.pdb
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula45\obj\Debug\net8.0\Aula45.genruntimeconfig.cache
+C:\Users\Robson Junior\Documents\GitHub\Dev C#\Aulas\Aula45\obj\Debug\net8.0\ref\Aula45.dll

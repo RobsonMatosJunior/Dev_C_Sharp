@@ -1,11 +1,13 @@
 ﻿// Problemas While
 // Problema = 1114
-/*
+
 using System;
 class Program
 {
+    
     static void Main (string [] args)
     {
+        /*
         int senha = 2002;
         int entrada = int.Parse(Console.ReadLine());
         int cont = 0;
@@ -17,9 +19,10 @@ class Program
         }
         Console.WriteLine("Acesso Permitido");
         Console.WriteLine("Tentativas até o sucesso: " + cont);
+        */
     }
 }
-*/
+
 
 // PROBLEMA = 1115
 

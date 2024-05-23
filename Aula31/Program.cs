@@ -1,9 +1,10 @@
-﻿/*
+﻿
 using System;
 class Program
 {
     static void Main(string[] args)
     {
+        /*
         // Operadores Lógicos
         && = // E
         || = // OU
@@ -77,6 +78,6 @@ class Program
         && (e), || (ou), ! (não)
         // Tabela verdade
         // Exemplos de expressões lógicas
+        */
     }
 }
-*/
