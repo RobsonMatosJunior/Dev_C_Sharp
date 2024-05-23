@@ -9,4 +9,5 @@
 bin/
 obj/
 out/
-obj
+**/obj/
+
