@@ -16,7 +16,13 @@ class program
             vet[i] = int.Parse(s[i]);
         }
         
-        
+        for (int i=0; i<N; i++)
+        {
+            if (vet[i] < 0)
+            {
+                Console.WriteLine(vet[i]);
+            }
+        }
         Console.ReadLine();
     }
 }
