@@ -1,9 +1,9 @@
 ﻿using System;
-/*
 class Program
 {
     static void Main()
     {
+        /*
         int[] A;
         double [] B;
         string [] C;
@@ -19,14 +19,8 @@ class Program
         }
         
         C[1] = "Maria";
-    }
-}
-*/
+        */
 
-class Program
-{
-    static void Main (string [] args)
-    {
         int N;
         double[] vet;
         N = int.Parse(Console.ReadLine());
@@ -45,3 +39,5 @@ class Program
         Console.ReadLine();
     }
 }
+
+
