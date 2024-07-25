@@ -14,10 +14,11 @@ class program
         }
 
         Console.WriteLine("Nomes lidos: ");
+        // Foreach - cada elemento
         foreach (string value in vet)
         {
-            Console.WriteLine(value);  
+            Console.WriteLine(value);
         }
         Console.ReadLine();
     }
-}
+} 
